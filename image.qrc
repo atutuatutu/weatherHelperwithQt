@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>多云.png</file>
+        <file>晴天.png</file>
+        <file>雪天.png</file>
+        <file>雨天.png</file>
+        <file>play.jpg</file>
+        <file>icon.png</file>
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
